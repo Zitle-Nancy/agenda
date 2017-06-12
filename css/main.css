@@ -16,6 +16,14 @@ body{
 	color: white;
 	display: inline-block;
 }
+.posicion{
+	position: relative;
+}
+.btn-eliminar{
+	position: absolute;
+	top: 3%;
+	right: 2%;
+}
 .bloques{
 	display: inline-block;
 }
